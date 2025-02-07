@@ -1,0 +1,10 @@
+C:\Users\stajyer3\Desktop\staj\kodlar\oscilloscope\obj\Debug\net48\oscilloscope.csproj.AssemblyReference.cache
+C:\Users\stajyer3\Desktop\staj\kodlar\oscilloscope\obj\Debug\net48\oscilloscope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stajyer3\Desktop\staj\kodlar\oscilloscope\obj\Debug\net48\oscilloscope.AssemblyInfoInputs.cache
+C:\Users\stajyer3\Desktop\staj\kodlar\oscilloscope\obj\Debug\net48\oscilloscope.AssemblyInfo.cs
+C:\Users\stajyer3\Desktop\staj\kodlar\oscilloscope\obj\Debug\net48\oscilloscope.csproj.CoreCompileInputs.cache
+C:\Users\stajyer3\Desktop\staj\kodlar\oscilloscope\bin\Debug\net48\oscilloscope.exe.config
+C:\Users\stajyer3\Desktop\staj\kodlar\oscilloscope\bin\Debug\net48\oscilloscope.exe
+C:\Users\stajyer3\Desktop\staj\kodlar\oscilloscope\bin\Debug\net48\oscilloscope.pdb
+C:\Users\stajyer3\Desktop\staj\kodlar\oscilloscope\obj\Debug\net48\oscilloscope.exe
+C:\Users\stajyer3\Desktop\staj\kodlar\oscilloscope\obj\Debug\net48\oscilloscope.pdb
