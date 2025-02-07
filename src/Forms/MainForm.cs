@@ -2298,7 +2298,7 @@ namespace Oscilloscope.Forms
                 return;
             }
 
-            double timeScale = 1.0 / (10.0 * freq); // 10 döngü/s bölümü ayarla
+            double timeScale = 1.0 / (10.0 * freq); 
             await oscilloscope.SendCommandAsync($":TIMEBASE:SCALE {timeScale}");
             AppendTestResult($"DEBUG: Time Scale set to {timeScale:F6}s/div for {freq} Hz input on CH{scopeChannel}", _selectedChannel);
         }
